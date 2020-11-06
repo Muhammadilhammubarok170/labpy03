@@ -23,3 +23,13 @@ proses pengulangan Dan mencetak hasil nilai maxium dari n yang di isikan
 
 ![screen 3](/gambar/screen3.png)
 
+latihan3
+
+Program Sederhana Menghitung Total Keuntungan Selama 8 Bulan Algoritma Program Sederhana Menghitung Total Keuntungan Selama 8 Bulan Start
+Input modal misalkan n = 100.000.000 ( deklarasikan ) Input presentase untung A=0n, B=0n, C=0.01n, D=0.01n, E=0.05n, F=0.05n, G=0.05n, H=0.03n
+For i in range (len (y)) pengulangan Print (“keuntungan bulan ke “,i+1,”sebesar:” ,y[i]) Menghitung jumlah laba keseluruhan x= (A+B+C+D+E+F+G+H)
+Print (“ Jumlah Keuntungan Selama 8 Bulan Adalah :”) Finish
+
+Program Program Sederhana Menghitung Total Keuntungan Selama 8 Bulan
+
+![screen 4](/gambar/screen4.png)
